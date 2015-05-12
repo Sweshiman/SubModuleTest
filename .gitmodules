@@ -1,0 +1,3 @@
+[submodule "BeerChug"]
+	path = BeerChug
+	url = https://github.com/Sweshiman/BeerChug.git
